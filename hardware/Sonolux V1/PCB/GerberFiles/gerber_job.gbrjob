@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-06-23T13:18:50Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Sound2Light PCB v19"
+        },
+        "Owner": "Yasandu Kalansooriyage <yasandu2.kalansooriyage@live.uwe.ac.uk>",
+        "Size": {
+            "X": 148,
+            "Y": 90
+        }
+    }
+}

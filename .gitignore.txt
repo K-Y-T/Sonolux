@@ -1,0 +1,19 @@
+# Temporary files
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# KiCad backups
+*-backups/
+*.kicad_prl
+
+# Visual Studio
+.vs/
+
+# Build folders
+build/
+
+# JUCE generated build files
+Builds/
