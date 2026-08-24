@@ -30,18 +30,6 @@ Current long-term objectives include:
 - Bluetooth audio integration
 - JUCE-based desktop software
 
----
-
-## Repository Structure
-
-hardware/
-- Sound2Light Prototype
-- Sonolux V1
-
-media/
-
----
-
 ## What it uses
 
 Current Development Areas
